@@ -6,3 +6,4 @@
 |---|---|
 | [nihongo-partner-skill](https://github.com/miku-craft/nihongo-partner-skill) | 캐릭터 선생님 미야와 함께하는 일본어 학습 Claude Code 스킬 |
 | [jev-slop-guard](https://github.com/miku-craft/jev-slop-guard) | 구글 검색 결과에 AI slop 확률 배지를 붙이는 크롬 확장 |
+| [meeting-minutes-skill](https://github.com/miku-craft/meeting-minutes-skill) | 회의 녹음을 내 컴퓨터에서 전사하고 화자를 나눠 회의록으로 만드는 에이전트 스킬 |
